@@ -14,8 +14,7 @@
 - More optimization
 
 
-## Screenshots
-[Imgur Album](https://imgur.com/a/H2aqG)
+## [Mod Screenshots](https://imgur.com/a/H2aqG)
   
 
 ## DOWNLOAD
