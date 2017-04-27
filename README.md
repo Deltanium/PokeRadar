@@ -17,7 +17,7 @@
 ## DOWNLOAD
 
 *Current Version*  
-[PokeRadar 3.4.0](https://mega.nz/#!UiBzkCCQ!LmCzgNbZDcj1aBE1IOtz2Rm60Zpx6f05c5lJ8bh7xYs) for Minecraft 1.10.2 and Pixelmon 5.0.3  
+[PokeRadar 3.4.0](https://mega.nz/#!omhXQZCZ!bRlz4_Hd2ehSGF1XFpSvUyhB0K3X2UCWTTWOLjuXD3s) for Minecraft 1.10.2 and Pixelmon 5.0.3  
 
 *Older Versions*  
 [PokeRadar 2.5.0](https://mega.nz/#!JjpGRB6R!N9NpuQssoPmai9kqCkRMhmjsBbOYquoOlgy22zuPQOI) for Minecraft 1.7.2 and Pixelmon 3.1.4
