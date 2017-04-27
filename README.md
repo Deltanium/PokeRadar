@@ -24,7 +24,9 @@
   
 
 ## Screenshots
-![1](https://i.imgur.com/0vMqhBo.png)
+[Click here to view the entire Imgur Album](https://imgur.com/a/H2aqG)  
+![1](https://i.imgur.com/0vMqhBo.png)  
+![2](https://i.imgur.com/jxbIHzo.png)  
 
 
 ## Information
