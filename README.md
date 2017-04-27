@@ -14,6 +14,10 @@
 - More optimization
 
 
+## Screenshots
+[Imgur Album](https://imgur.com/a/H2aqG)
+
+
 ## DOWNLOAD
 
 *Current Version*  
