@@ -24,7 +24,7 @@
   
 
 ## Screenshots
-[](https://i.imgur.com/0vMqhBo.png)
+![1](https://i.imgur.com/0vMqhBo.png)
 
 
 ## Information
