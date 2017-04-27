@@ -57,7 +57,7 @@ Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) desc
 [Because.](https://i.imgur.com/775rSxd.png)
 
 
-###Change Log 
+### Change Log
 3.4.0 - Added Nature Filtering  
 3.3.0 - Minor adjustments and added new Map Mode cycle.  
 3.0.0 - Updated for Minecraft 1.10.2  
