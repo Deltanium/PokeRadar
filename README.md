@@ -16,7 +16,7 @@
 
 ## Screenshots
 [Imgur Album](https://imgur.com/a/H2aqG)
-
+  
 
 ## DOWNLOAD
 
@@ -25,12 +25,12 @@
 
 *Older Versions*  
 [PokeRadar 2.5.0](https://mega.nz/#!JjpGRB6R!N9NpuQssoPmai9kqCkRMhmjsBbOYquoOlgy22zuPQOI) for Minecraft 1.7.2 and Pixelmon 3.1.4
-
+  
 
 ## Information
 
 This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, level, location, and if they are shiny. Search for specific pokemon or multiple pokemon at once with commas. Automatic waypoints and for bosses and legendaries in your area. Find PokeLoot and Shrines with ease. Filter by Effort Value (EV) and for faster training! You can enter a partial spelling (minimum 3 letters) for a pokemon and PokeRadar will find it. Use the in-game menu to configure Map settings.
-
+  
 
 ## Hotkeys
 
@@ -45,11 +45,11 @@ Pressing N will cycle through the following Map Modes:
 - Small MiniMap
 - Large MiniMap
 - (new) Hide all traces of PokeRadar from screen. This allows you to safely take screenshots.
-
+  
 
 ## Problems / Suggestions
 Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) describing in detail the problem you're having with the mod and include and error logs you may have. If you've got a suggestion, post there as well and I'll see what I can do!
-
+  
 
 ## Why are we on GitHub now and not MinecraftForum.net
 [Because.](https://i.imgur.com/775rSxd.png)
