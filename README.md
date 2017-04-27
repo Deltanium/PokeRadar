@@ -27,6 +27,7 @@ This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, le
 **INSERT** - New Waypoint  
 **M** - Open the map  
 **N** - Change minimap mode  
+
 Pressing N will cycle through the following Map Modes:  
 - Small MiniMap
 - Large MiniMap
