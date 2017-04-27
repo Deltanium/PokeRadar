@@ -12,9 +12,6 @@
 - Filter by Effort Value (EV). Search by specifically HP, Attack, Defense, Sp.Attk, Sp.Def, or Speed. A pokemon will show up if it has only that EV.
 - PokeRadar automatically checks for updates
 - More optimization
-
-
-## [Mod Screenshots](https://imgur.com/a/H2aqG)
   
 
 ## DOWNLOAD
@@ -25,6 +22,10 @@
 *Older Versions*  
 [PokeRadar 2.5.0](https://mega.nz/#!JjpGRB6R!N9NpuQssoPmai9kqCkRMhmjsBbOYquoOlgy22zuPQOI) for Minecraft 1.7.2 and Pixelmon 3.1.4
   
+
+## Screenshots
+[](https://i.imgur.com/0vMqhBo.png)
+
 
 ## Information
 
