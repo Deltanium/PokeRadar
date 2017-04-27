@@ -1,6 +1,6 @@
-**Forge Required: https://files.minecraftforge.net/**
-**Minecraft: 1.10.2**
-**Pixelmon: 5.0.3**
+**Forge Required: https://files.minecraftforge.net/**  
+**Minecraft: 1.10.2**  
+**Pixelmon: 5.0.3**  
 
 # PokeRadar Version 3.3.0
 - PokeRadar is once again UNDETECTABLE. Party hard friends!
@@ -21,13 +21,13 @@ This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, le
 
 ## Hotkeys
 
-**BACKSLASH "\"** - PokeRadar menu
-**PAGE DOWN** - Minimap zoom in
-**PAGE UP** - Minimap zoom out
-**INSERT** - New Waypoint
-**M** - Open the map
-**N** - Change minimap mode
-Pressing N will cycle through the following Map Modes:
+**BACKSLASH "\"** - PokeRadar menu  
+**PAGE DOWN** - Minimap zoom in  
+**PAGE UP** - Minimap zoom out  
+**INSERT** - New Waypoint  
+**M** - Open the map  
+**N** - Change minimap mode  
+Pressing N will cycle through the following Map Modes:  
 - Small MiniMap
 - Large MiniMap
 - (new) Hide all traces of PokeRadar from screen. This allows you to safely take screenshots.
