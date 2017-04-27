@@ -30,7 +30,7 @@ This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, le
 
 ## Hotkeys
 
-**BACKSLASH "\"** - PokeRadar menu  
+**BACKSLASH "\\"** - PokeRadar menu  
 **PAGE DOWN** - Minimap zoom in  
 **PAGE UP** - Minimap zoom out  
 **INSERT** - New Waypoint  
