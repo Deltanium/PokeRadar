@@ -2,7 +2,7 @@
 **Minecraft: 1.10.2**
 **Pixelmon: 5.0.3**
 
-#PokeRadar Version 3.3.0
+# PokeRadar Version 3.3.0
 - PokeRadar is once again UNDETECTABLE. Party hard friends!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
@@ -14,12 +14,12 @@
 - More optimization
 
 
-##Information
+## Information
 
 This is the original PokeRadar for Pixelmon. Detect any pokemon in your area, level, location, and if they are shiny. Search for specific pokemon or multiple pokemon at once with commas. Automatic waypoints and for bosses and legendaries in your area. Find PokeLoot and Shrines with ease. Filter by Effort Value (EV) and for faster training! You can enter a partial spelling (minimum 3 letters) for a pokemon and PokeRadar will find it. Use the in-game menu to configure Map settings.
 
 
-##Hotkeys
+## Hotkeys
 
 **BACKSLASH "\"** - PokeRadar menu
 **PAGE DOWN** - Minimap zoom in
