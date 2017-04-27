@@ -44,4 +44,4 @@ Pressing N will cycle through the following Map Modes:
 
 
 ## Problems / Suggestions
-Please submit a new 'Issue' describing in detail the problem you're having with the mod and include and error logs you may have. If you've got a suggestion, post there as well and I'll see what I can do!
+Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) describing in detail the problem you're having with the mod and include and error logs you may have. If you've got a suggestion, post there as well and I'll see what I can do!
