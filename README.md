@@ -2,7 +2,7 @@
 **Minecraft: 1.10.2**  
 **Pixelmon: 5.0.3**  
 
-# PokeRadar Version 3.3.0
+# PokeRadar Version 3.4.0
 - PokeRadar is once again UNDETECTABLE. Party hard friends!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
@@ -17,7 +17,7 @@
 ## DOWNLOAD
 
 *Current Version*  
-[PokeRadar 3.3.0](https://mega.nz/#!UiBzkCCQ!LmCzgNbZDcj1aBE1IOtz2Rm60Zpx6f05c5lJ8bh7xYs) for Minecraft 1.10.2 and Pixelmon 5.0.3  
+[PokeRadar 3.4.0](https://mega.nz/#!UiBzkCCQ!LmCzgNbZDcj1aBE1IOtz2Rm60Zpx6f05c5lJ8bh7xYs) for Minecraft 1.10.2 and Pixelmon 5.0.3  
 
 *Older Versions*  
 [PokeRadar 2.5.0](https://mega.nz/#!JjpGRB6R!N9NpuQssoPmai9kqCkRMhmjsBbOYquoOlgy22zuPQOI) for Minecraft 1.7.2 and Pixelmon 3.1.4
@@ -55,3 +55,10 @@ Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) desc
 
 ## Why are we on GitHub now and not MinecraftForum.net
 [Because.](https://i.imgur.com/775rSxd.png)
+
+
+###Change Log
+3.4.0 - Added Nature Filtering
+3.3.0 - Minor adjustments and added new Map Mode cycle.
+3.0.0 - Updated for Minecraft 1.10.2
+
