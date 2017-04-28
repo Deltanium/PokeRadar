@@ -2,7 +2,7 @@
 **Minecraft: 1.10.2**  
 **Pixelmon: 5.0.3**  
 
-# PokeRadar Version 3.5.0
+# PokeRadar Version 3.5.1
 - PokeRadar is once again UNDETECTABLE. Party hard friends!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
