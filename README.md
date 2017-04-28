@@ -61,7 +61,8 @@ Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) desc
 
 
 ### Change Log
-3.5.0 - Show basic Pokemon stats on right click. Show even more stats when clicking the "Stats" option
+3.5.0 - Show basic Pokemon stats on right click. Show even more stats when clicking the "Stats" option.
+        Added PokeLoot tier level to nameplate.
 3.4.0 - Added Nature Filtering  
 3.3.0 - Minor adjustments and added new Map Mode cycle.  
 3.0.0 - Updated for Minecraft 1.10.2  
