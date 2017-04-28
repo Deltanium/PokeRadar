@@ -2,7 +2,7 @@
 **Minecraft: 1.10.2**  
 **Pixelmon: 5.0.3**  
 
-# PokeRadar Version 3.5.1
+# PokeRadar Version 3.5.2
 - PokeRadar is once again UNDETECTABLE. Party hard friends!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
@@ -12,15 +12,15 @@
 - Filter by Nature
 - Filter by Effort Value (EV). Search by specifically HP, Attack, Defense, Sp.Attk, Sp.Def, or Speed. A pokemon will show up if it has only that EV.
 - PokeRadar automatically checks for updates
-- Right click a Pokemon to view stats on it
-- Clicking the "Stats" on a pokemon will show you an expanded stats print out
+- Right click a Pokemon to view basic stats on it
+- Clicking the "Stats" option on a pokemon will show you an expanded stats print out
 - More optimization
   
 
 ## DOWNLOAD
 
 *Current Version*  
-[PokeRadar 3.5.1](https://mega.nz/#!8joREBJC!56bmPVDmcbuoEPETv5zm7DyfWNP6cESyt6I4atFWZZw) for Minecraft 1.10.2 and Pixelmon 5.0.3  
+[PokeRadar 3.5.2](https://mega.nz/#!YiZkyYgZ!PSKuppPLU_Q3fkrwLro5afn1q5AQNqFI_PhEY4jibxc) for Minecraft 1.10.2 and Pixelmon 5.0.3  
 
 *Older Versions*  
 [PokeRadar 2.5.0](https://mega.nz/#!JjpGRB6R!N9NpuQssoPmai9kqCkRMhmjsBbOYquoOlgy22zuPQOI) for Minecraft 1.7.2 and Pixelmon 3.1.4
@@ -61,9 +61,14 @@ Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) desc
 
 
 ### Change Log
+**3.5.2**
+- Right clicking for stats was showing the wrong "Ability" so it's removed. It still exists in the extra stats you can get from viewing the "Stats" option of a pokemon.
+- Right clicking for stats only works now when you don't have any items in your hand to prevent issues with item interactions.
+- Added markers to the "Map Settings" under "PokeRadar". You can turn **on/off** any markers now.
+
 **3.5.1**
 - Fixed bug showing Hidden PokeChests as Tier1
-- Added Ability to the Pokemon stats when you right click any pokemon.
+- Added "Ability" to Pokemon stats
 
 **3.5.0**
 - Show basic Pokemon stats when you right click any pokemon. Show even more stats when clicking the "Stats" option.
