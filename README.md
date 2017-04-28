@@ -2,7 +2,7 @@
 **Minecraft: 1.10.2**  
 **Pixelmon: 5.0.3**  
 
-# PokeRadar Version 3.4.0
+# PokeRadar Version 3.5.0
 - PokeRadar is once again UNDETECTABLE. Party hard friends!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
@@ -12,13 +12,15 @@
 - Filter by Nature
 - Filter by Effort Value (EV). Search by specifically HP, Attack, Defense, Sp.Attk, Sp.Def, or Speed. A pokemon will show up if it has only that EV.
 - PokeRadar automatically checks for updates
+- Right click a Pokemon to view stats on it
+- Clicking the "Stats" on a pokemon will show you an expanded stats print out
 - More optimization
   
 
 ## DOWNLOAD
 
 *Current Version*  
-[PokeRadar 3.4.0](https://mega.nz/#!omhXQZCZ!bRlz4_Hd2ehSGF1XFpSvUyhB0K3X2UCWTTWOLjuXD3s) for Minecraft 1.10.2 and Pixelmon 5.0.3  
+[PokeRadar 3.5.0](https://mega.nz/#!djBRCQxD!93oJiZIhmktq_362x_kfJ1pjtz4wEyJljlvTSGQnZy0) for Minecraft 1.10.2 and Pixelmon 5.0.3  
 
 *Older Versions*  
 [PokeRadar 2.5.0](https://mega.nz/#!JjpGRB6R!N9NpuQssoPmai9kqCkRMhmjsBbOYquoOlgy22zuPQOI) for Minecraft 1.7.2 and Pixelmon 3.1.4
@@ -59,6 +61,7 @@ Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) desc
 
 
 ### Change Log
+3.5.0 - Show basic Pokemon stats on right click. Show even more stats when clicking the "Stats" option
 3.4.0 - Added Nature Filtering  
 3.3.0 - Minor adjustments and added new Map Mode cycle.  
 3.0.0 - Updated for Minecraft 1.10.2  
