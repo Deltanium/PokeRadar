@@ -20,7 +20,7 @@
 ## DOWNLOAD
 
 *Current Version*  
-[PokeRadar 3.5.0](https://mega.nz/#!djBRCQxD!93oJiZIhmktq_362x_kfJ1pjtz4wEyJljlvTSGQnZy0) for Minecraft 1.10.2 and Pixelmon 5.0.3  
+[PokeRadar 3.5.1](https://mega.nz/#!8joREBJC!56bmPVDmcbuoEPETv5zm7DyfWNP6cESyt6I4atFWZZw) for Minecraft 1.10.2 and Pixelmon 5.0.3  
 
 *Older Versions*  
 [PokeRadar 2.5.0](https://mega.nz/#!JjpGRB6R!N9NpuQssoPmai9kqCkRMhmjsBbOYquoOlgy22zuPQOI) for Minecraft 1.7.2 and Pixelmon 3.1.4
@@ -61,9 +61,13 @@ Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) desc
 
 
 ### Change Log
+**3.5.1**
+- Fixed bug showing Hidden PokeChests as Tier1
+- Added Ability to the Pokemon stats when you right click any pokemon.
+
 **3.5.0**
-- Show basic Pokemon stats on right click. Show even more stats when clicking the "Stats" option.
-- Added PokeLoot tier level to nameplate.
+- Show basic Pokemon stats when you right click any pokemon. Show even more stats when clicking the "Stats" option.
+- Added PokeLoot tier levels to nameplate.
 
 **3.4.0**
 - Added Nature Filtering
