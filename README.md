@@ -60,26 +60,4 @@ Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) desc
 [Because.](https://i.imgur.com/775rSxd.png)
 
 
-### Change Log
-**3.5.2**
-- Right clicking for stats was showing the wrong "Ability" so it's removed. It still exists in the extra stats you can get from viewing the "Stats" option of a pokemon.
-- Right clicking for stats only works now when you don't have any items in your hand to prevent issues with item interactions.
-- Added markers to the "Map Settings" under "PokeRadar". You can turn **on/off** any markers now.
-
-**3.5.1**
-- Fixed bug showing Hidden PokeChests as Tier1
-- Added "Ability" to Pokemon stats
-
-**3.5.0**
-- Show basic Pokemon stats when you right click any pokemon. Show even more stats when clicking the "Stats" option.
-- Added PokeLoot tier levels to nameplate.
-
-**3.4.0**
-- Added Nature Filtering
-
-**3.3.0**
-- Minor adjustments and added new Map Mode cycle.
-
-**3.0.0**
-- Updated for Minecraft 1.10.2
-
+### [Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log)
