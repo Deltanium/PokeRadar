@@ -17,7 +17,7 @@
 - More optimization
   
 
-## DOWNLOAD
+## DOWNLOAD ([Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log))
 
 *Current Version*  
 [PokeRadar 3.5.2](https://mega.nz/#!YiZkyYgZ!PSKuppPLU_Q3fkrwLro5afn1q5AQNqFI_PhEY4jibxc) for Minecraft 1.10.2 and Pixelmon 5.0.3  
@@ -60,4 +60,3 @@ Please [submit a new 'Issue'](https://github.com/kcaf/PokeRadar/issues/new) desc
 [Because.](https://i.imgur.com/775rSxd.png)
 
 
-### [Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log)
