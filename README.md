@@ -1,8 +1,8 @@
 **Forge Required: https://files.minecraftforge.net/**  
-**Minecraft: 1.10.2**  
-**Pixelmon: 5.0.3**  
+**Minecraft: 1.11.2**  
+**Pixelmon: (unreleased)**  
 
-# PokeRadar Version 3.5.2
+# PokeRadar Version (unreleased)
 - PokeRadar is once again UNDETECTABLE. Party hard friends!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
@@ -20,11 +20,8 @@
 ## DOWNLOAD ([Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log))
 
 *Current Version*  
-[PokeRadar 3.5.2](https://mega.nz/#!YiZkyYgZ!PSKuppPLU_Q3fkrwLro5afn1q5AQNqFI_PhEY4jibxc) for Minecraft 1.10.2 and Pixelmon 5.0.3  
+(unreleased)
 
-*Older Versions*  
-[PokeRadar 2.5.0](https://mega.nz/#!JjpGRB6R!N9NpuQssoPmai9kqCkRMhmjsBbOYquoOlgy22zuPQOI) for Minecraft 1.7.2 and Pixelmon 3.1.4
-  
 
 ## Screenshots
 [Click here to view the entire Imgur Album](https://imgur.com/a/H2aqG)  
