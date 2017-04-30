@@ -2,7 +2,7 @@
 **Minecraft: 1.10.2**  
 **Pixelmon: 5.0.3**  
 
-# PokeRadar Version 3.5.2
+# PokeRadar Version 3.6.0
 - PokeRadar is once again UNDETECTABLE. Party hard friends!
 - New Boss colors with nameplates and waypoints
 - Search multiple pokemon by separating with commas eg: pikachu, magikarp, mew
@@ -14,13 +14,14 @@
 - PokeRadar automatically checks for updates
 - Right click a Pokemon to view basic stats on it
 - Clicking the "Stats" option on a pokemon will show you an expanded stats print out
+- You can choose between colored dots or textures on the map! Check under Map Settings > Pokeradar to change.
 - More optimization
   
 
 ## DOWNLOAD ([Change Log](https://github.com/kcaf/PokeRadar/wiki/Change-Log))
 
 *Current Version*  
-[PokeRadar 3.5.2](https://mega.nz/#!YiZkyYgZ!PSKuppPLU_Q3fkrwLro5afn1q5AQNqFI_PhEY4jibxc) for Minecraft 1.10.2 and Pixelmon 5.0.3  
+[PokeRadar 3.6.0](https://mega.nz/#!UjIm3KRZ!nXzj0hE9IyUnvyqFkxYMOnLSBWBittdWMk1wZFuI51Y) for Minecraft 1.10.2 and Pixelmon 5.0.3  
 
 *Older Versions*  
 [PokeRadar 2.5.0](https://mega.nz/#!JjpGRB6R!N9NpuQssoPmai9kqCkRMhmjsBbOYquoOlgy22zuPQOI) for Minecraft 1.7.2 and Pixelmon 3.1.4
