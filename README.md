@@ -9,6 +9,7 @@
 - NPC detection
 - PokeLoot detection
 - PokeShrine detection
+- Mega boss detection
 - Filter by Nature
 - Filter by Effort Value (EV). Search by specifically HP, Attack, Defense, Sp.Attk, Sp.Def, or Speed. A pokemon will show up if it has only that EV.
 - PokeRadar automatically checks for updates
